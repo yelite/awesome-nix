@@ -136,6 +136,7 @@
 * [flox](https://github.com/flox/flox) - Manage and share development environments, package projects, and publish artifacts anywhere.
 * [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - The most feature-complete and easy-to-use `.gitignore` integration.
 * [haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for the Nix language similar to traditional programming languages, with support for file hierarchy and visibility.
+* [lite-system](https://github.com/yelite/lite-system) - A flake module to build NixOS, nix-darwin and Home Manager configurations, creating a consistent environment across different devices.
 * [lorri](https://github.com/nix-community/lorri/) - A much better `nix-shell` for development that augments direnv.
 * [namaka](https://github.com/nix-community/namaka) - Snapshot testing for Nix based on haumea.
 * [nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
